@@ -1,7 +1,7 @@
 DROP TABLE IF EXISTS returns;
 CREATE TABLE returns(
-   Person   VARCHAR(17) NOT NULL PRIMARY KEY
-  ,Region   VARCHAR(7) NOT NULL
+   Returned   VARCHAR(10) NOT NULL
+  ,Order_id   VARCHAR(25) NOT NULL
 );
 INSERT INTO returns(Person,Region) VALUES ('Yes','CA-2016-100762');
 INSERT INTO returns(Person,Region) VALUES ('Yes','CA-2016-100762');
