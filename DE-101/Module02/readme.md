@@ -8,3 +8,9 @@
 * [Queries For Analysis](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/queries%20for%20analysis.sql)
 
 ## Модели данных ##
+### Концептуальная модель ###
+![Conceptual](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/DMConceptual.png)
+### Логическая модель ###
+![Logical](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/DMLogical.png)
+### Физическая модель ###
+![Physical](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/DMPhysical.png)
