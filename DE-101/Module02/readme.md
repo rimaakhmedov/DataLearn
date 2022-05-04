@@ -14,3 +14,5 @@
 ![Logical](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/DMLogical.png)
 ### Физическая модель ###
 ![Physical](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/DMPhysical.png)
+### Запросы для создания таблиц с помощью DDL SQLDBM ###
+* [DDL](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/DDL.sql)
