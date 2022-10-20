@@ -9,12 +9,12 @@
 
 ## Модели данных ##
 ### Концептуальная модель ###
-![Conceptual]()
+![Conceptual](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/Conceptual_DM.png)
 ### Логическая модель ###
-![Logical]()
+![Logical](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/Logical_DM.png)
 ### Физическая модель ###
-![Physical]()
+![Physical](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/Physical_DM.png)
 ### Запросы для создания таблиц с помощью DDL SQLDBM ###
-* [DDL-запросы]()
+* [DDL-запросы](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/DDL.sql)
 ### Запросы для заполнения таблиц
-* [Загрузка Данных]()
+* [Загрузка Данных](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/Data%20Upload.sql)
