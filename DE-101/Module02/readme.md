@@ -18,3 +18,6 @@
 * [DDL-запросы](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/DDL.sql)
 ### Запросы для заполнения таблиц
 * [Загрузка Данных](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/Data%20Upload.sql)
+
+## База данных в облаке. Дашборд созданный с помощью DataLens ##
+![Dashboard](https://github.com/vision-is-moribund/DataLearn/blob/main/DE-101/Module02/dashboard_DL.png)
